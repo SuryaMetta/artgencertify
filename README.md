@@ -1,1 +1,1 @@
-# artgencertify
+# certifications
